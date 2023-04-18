@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDqrwrAIbVcEWu1/68ALVdEZGIVQM4x7By6Nh+sADjrTJgC86UQanPZmH+ode70dWKugETM9fCSWOKZVzRoPGw==",
+  "success": true,
+  "projectFilePath": "/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/Test 1.csproj",
+  "expectedPackageFiles": [
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godot.sourcegenerators/4.0.2/godot.sourcegenerators.4.0.2.nupkg.sha512",
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godotsharp/4.0.2/godotsharp.4.0.2.nupkg.sha512",
+    "/home/collinsey/.local/share/godot/mono/GodotNuGetFallbackFolder/godotsharpeditor/4.0.2/godotsharpeditor.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

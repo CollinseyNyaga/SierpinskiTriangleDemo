@@ -1,0 +1,51 @@
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/Test 1.deps.json
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/Test 1.runtimeconfig.json
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/Test 1.dll
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/Test 1.pdb
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.csproj.AssemblyReference.cache
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfoInputs.cache
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfo.cs
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.csproj.CoreCompileInputs.cache
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.csproj.CopyComplete
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.dll
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/refint/Test 1.dll
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.pdb
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/Test 1.genruntimeconfig.cache
+/home/collinsey/Desktop/Tests/Test1/.godot/mono/temp/obj/Debug/ref/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/Test 1.deps.json
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/Test 1.runtimeconfig.json
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/Test 1.pdb
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.csproj.AssemblyReference.cache
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfoInputs.cache
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfo.cs
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.csproj.CoreCompileInputs.cache
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.csproj.CopyComplete
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/refint/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.pdb
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/Test 1.genruntimeconfig.cache
+/home/collinsey/Desktop/SierpinskiTriangle/.godot/mono/temp/obj/Debug/ref/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/Test 1.deps.json
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/Test 1.runtimeconfig.json
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/Test 1.pdb
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.csproj.AssemblyReference.cache
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfoInputs.cache
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.AssemblyInfo.cs
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.csproj.CoreCompileInputs.cache
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.csproj.CopyComplete
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/refint/Test 1.dll
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.pdb
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/Test 1.genruntimeconfig.cache
+/home/collinsey/Desktop/SierpinskiTriangle/3.godotDir/.godot/mono/temp/obj/Debug/ref/Test 1.dll
