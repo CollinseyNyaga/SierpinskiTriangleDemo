@@ -2,7 +2,7 @@
 A program that calculates sierpinski's triangle random points and plots them on the triangle.
 
 # Demostration
-![]("../2.screenshots/screenshot1.gif")
+![]("2.screenshots/screenshot1.gif")
 
 # PreRequisites
 1. Godot game engine version 4.0.2_stable_mono
